@@ -3,6 +3,8 @@
 > 基于 **通晓开发板（RK2206 / Huawei LiteOS）** 与 **华为云 IoTDA** 的嵌入式 IoT 综合项目  
 > 覆盖：多任务 RTOS 编程、I2C/SPI/UART/ADC/PWM/GPIO 中断驱动、事件驱动架构、状态机、业务级硬件抽象、MQTT 物联网云端协议
 
+> 仓库展示标签：RK2206 / Huawei LiteOS / IoTDA
+
 ---
 
 ## 一、项目简介
