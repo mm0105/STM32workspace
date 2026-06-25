@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model artifacts
+models/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.bin
+*.param
+*_ncnn_model/
+
+# Runtime outputs
+runs/
+outputs/
+dataset/
